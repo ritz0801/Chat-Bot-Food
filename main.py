@@ -106,8 +106,6 @@ def chat():
             print("I didn't get that, try again!")
 
 
-chat()
-
 # def chat():
 #     print("Start talking with the bot (type quit to stop)!")
 #     while True:
